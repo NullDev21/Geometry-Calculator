@@ -1,0 +1,3 @@
+C:/Users/maiko/Desktop/coding/c/Geometry Calculator/cmake-build-debug/CMakeFiles/Geometry_Calculator.dir
+C:/Users/maiko/Desktop/coding/c/Geometry Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/maiko/Desktop/coding/c/Geometry Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
